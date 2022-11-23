@@ -1,1 +1,5 @@
+nano 01-hola-mundo.sh
 echo ''Hola mundo''
+crtl + O
+ctrl + X
+sh 01-hola-mundo.sh
